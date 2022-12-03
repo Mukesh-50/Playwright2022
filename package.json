@@ -1,0 +1,19 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ddt":"npx playwright test ./tests/deleteUser.spec.js --project=chromium",
+    "allTestInChrome":"npx playwright test --project=chromium",
+    "allTestInFirefox":"npx playwright test --project=firefox",
+    "allTestInWebKit":"npx playwright test --project=webkit",
+    "smoke": "npx playwright test --project=chromium --grep=@Smoke"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1"
+  }
+}

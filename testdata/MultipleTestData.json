@@ -1,0 +1,26 @@
+[{
+    "id":1,
+    "username":"ineuron@ineuron.ai",
+    "password":"ineuron"
+},
+{
+    "id":2,
+    "username":"sample9@gmail.com",
+    "password":"Mukesh@1234"
+},
+{
+    "id":3,
+    "username":"testuser101@gmail.com",
+    "password":"Mukesh@1234"
+},
+{
+    "id":4,
+    "username":"samplemukesh2@gmail.com",
+    "password":"Mukesh@1234"
+},
+{
+    "id":5,
+    "username":"samplemukesh2@gmail.com",
+    "password":"Mukesh@12345"
+}
+]
